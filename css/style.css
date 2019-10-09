@@ -2,9 +2,13 @@
   background-color: #a9c78b;
 }
 
+h3 {
+  margin-bottom: 2rem;
+}
+
 .quem-somos {
   background-color: #e9e9e9;
-  color: #a9c78b;
+  color: slategrey;
 }
 
 .quem-somos img {
@@ -19,6 +23,16 @@
   background-color: cornflowerblue;
 }
 
-.parceiros img {
+.parceiros img,
+.servicos img {
   width: 100%;
+}
+
+.servicos {
+  background-color: wheat;
+}
+
+.main-footer {
+  background-color: black;
+  color: #fff;
 }
