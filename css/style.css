@@ -4,5 +4,21 @@
 
 .quem-somos {
   background-color: #e9e9e9;
-  padding-top: 50px;
+  color: #a9c78b;
+}
+
+.quem-somos img {
+  margin: 20px 0;
+}
+
+.margin {
+  padding: 50px; 
+}
+
+.parceiros {
+  background-color: cornflowerblue;
+}
+
+.parceiros img {
+  width: 100%;
 }
